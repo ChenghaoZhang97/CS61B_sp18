@@ -48,3 +48,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+!AceMyFile/*
+!AceMyFile/note_img/*.png
+!AceMyFile/note_img/gitImg/*.png
+!AceMyFile/cs61b_instru/*.png
+.vscode
+*/.idea
+*/out
